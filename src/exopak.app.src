@@ -1,0 +1,12 @@
+{application, exopak,
+ [
+  {description, ""},
+  {vsn, git},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { exopak_app, []}},
+  {env, []}
+ ]}.
