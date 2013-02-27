@@ -1,8 +1,0 @@
-PACKAGE system front-end
-
-install <pkg>+  - install one or more packages
-remove  <pkg>+  - removet one or mote packages
-
-list 		- list available packages
-list-installed 	- List installed packaged
-list-upgradable - List installed and upgradable packages
