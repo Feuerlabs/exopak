@@ -13,7 +13,7 @@
 %%% @end
 %%% Created : 22 May 2012 by Tony Rogvall <tony@rogvall.se>
 
--module(erl_opkg).
+-module(erl_pkg).
 
 -compile(export_all).
 
